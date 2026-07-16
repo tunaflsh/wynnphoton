@@ -1,10 +1,14 @@
 <br><br>
 
-<h1 align = "center">Photon Shaders</h1>
+<h1 align = "center">WynnPhoton Shaders</h1>
 
-<p align = "center">A gameplay-focused shader pack for Minecraft</p>
+<p align = "center">Photon shaders for Wynncraft</p>
 
-![Screenshot](docs/images/rainbow.png)
+![Screenshot](docs/images/wynnphoton-comparison.png)
+
+## Key Changes
+
+* Redstone torch yellow blocklight color
 
 ## Acknowledgments
 
@@ -32,8 +36,7 @@
 * Once you have your preferred shader loader installed, simply place the downloaded zip file in your `.minecraft/shaderpacks` folder
 
 ### Downloads
-* [Releases](https://modrinth.com/shader/photon-shader/versions) (recommended)
-* [Lastest commit](https://github.com/sixthsurge/photon/archive/refs/heads/main.zip)
+* [Lastest commit](https://github.com/tunaflsh/wynnphoton/archive/refs/heads/main.zip)
 
 ## Features
 * Fully revamped sky, lighting and water 
