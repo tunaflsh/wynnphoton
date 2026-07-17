@@ -8,7 +8,7 @@
 
 ## Key Changes
 
-* Redstone torch yellow blocklight color
+* Redstone torch - Yellow light emission
 
 ## Acknowledgments
 
