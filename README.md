@@ -13,6 +13,11 @@
 * Redstone torch (block and item)
 * Repeater
 
+### Disable Emission
+
+* Redstone wire
+* Comparator
+
 ## Acknowledgments
 
 * Menu translations: 
