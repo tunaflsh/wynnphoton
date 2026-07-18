@@ -8,7 +8,10 @@
 
 ## Key Changes
 
-* Redstone torch - Yellow light emission
+### Weak Golden Light
+
+* Redstone torch (block and item)
+* Repeater
 
 ## Acknowledgments
 
